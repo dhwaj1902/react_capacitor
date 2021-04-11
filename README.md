@@ -1,4 +1,4 @@
-## Convert ReactJs website into an Android App using [Capacitor.js](https://capacitorjs.com/)
+## Convert ReactJs website into an Android/IOS App using [Capacitor.js](https://capacitorjs.com/)
 
 * Firstly create an react app using:
 ```npx create-react-app appname```
